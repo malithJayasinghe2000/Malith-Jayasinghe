@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Malith-Jayasinghe/static/css/main.bf538fe7.css",
+    "main.js": "/Malith-Jayasinghe/static/js/main.8a44733d.js",
+    "static/media/HeroImage.jpg": "/Malith-Jayasinghe/static/media/HeroImage.b469bcc591c814aaf436.jpg",
+    "index.html": "/Malith-Jayasinghe/index.html",
+    "main.bf538fe7.css.map": "/Malith-Jayasinghe/static/css/main.bf538fe7.css.map",
+    "main.8a44733d.js.map": "/Malith-Jayasinghe/static/js/main.8a44733d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.8a44733d.js"
+  ]
+}
