@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/malithJayasinghe2000",
   resume:
-    "https://drive.google.com/file/d/1cBZTAt_cH_gRJNM3rP1ltfLCdQi7kquP/view?usp=drive_link",
+    "https://drive.google.com/file/d/1x02ZDOvj0sKRfzdEngsWt2-iOilMt-DP/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/malith-jayasinghe-60273a216",
   twitter: "https://twitter.com/MalithJayasing",
   insta: "https://www.instagram.com/malith_jay_singhe?igsh=YTQwZjQ0NmI0OA%3D%3D&utm_source=qr",
