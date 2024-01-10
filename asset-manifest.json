@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Malith-Jayasinghe/static/css/main.bf538fe7.css",
-    "main.js": "/Malith-Jayasinghe/static/js/main.fb06c163.js",
+    "main.js": "/Malith-Jayasinghe/static/js/main.9954fb0a.js",
     "static/media/HeroImage.jpg": "/Malith-Jayasinghe/static/media/HeroImage.b469bcc591c814aaf436.jpg",
     "index.html": "/Malith-Jayasinghe/index.html",
     "main.bf538fe7.css.map": "/Malith-Jayasinghe/static/css/main.bf538fe7.css.map",
-    "main.fb06c163.js.map": "/Malith-Jayasinghe/static/js/main.fb06c163.js.map"
+    "main.9954fb0a.js.map": "/Malith-Jayasinghe/static/js/main.9954fb0a.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.fb06c163.js"
+    "static/js/main.9954fb0a.js"
   ]
 }
