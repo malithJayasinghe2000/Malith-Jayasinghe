@@ -493,7 +493,7 @@ export const projects = [
   {
     id: 6,
     title: "Pomodoro Clock",
-    date: "Jun 2024",
+    date: "Jan 2024",
     description:
       "Developed a Pomodoro Clock application using React, HTML, CSS, and JavaScript. This responsive timer adheres to specified user stories, passing rigorous testing and resolving React 18 incompatibilities. Key features include session and break length controls, real-time countdown display, seamless transitions, and audio feedback on timer completion.",
     image:
@@ -503,19 +503,19 @@ export const projects = [
     github: "https://github.com/malithJayasinghe2000/Promodoro-Clock.git",
     webapp: "https://codepen.io/malith-jayasinghe/full/RwdRZzG",
   },
-  // {
-  //   id: 7,
-  //   title: "Quiz App",
-  //   date: "Dec 2020 - Jan 2021",
-  //   description:
-  //     "A android quiz app made with Java and Firebase. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the quiz categories and can create a new quiz. It has a leaderboard where users can see the top 10 scorers. It has a search bar where users can search for a particular quiz.",
-  //   image:
-  //     "https://github-production-user-asset-6210df.s3.amazonaws.com/64485885/239726262-c1b061d1-d9d0-42ef-9f1c-0412d14bc4f6.gif",
-  //   tags: ["Java", "Android Studio", "Firebase", "Google Auth"],
-  //   category: "android app",
-  //   github: "https://github.com/rishavchanda/Quiz-Earn",
-  //   webapp: "https://github.com/rishavchanda/Quiz-Earn",
-  // },
+  {
+    id: 7,
+    title: "Weather Forecast Web Application",
+    date: "Jan 2024",
+    description:
+      "A web application with provides current weather in a  city and 7-day daily forecasting.",
+    image:
+      "https://res.cloudinary.com/dfnfzolon/image/upload/v1705604419/weather_v1ogvi.png",
+    tags: ["React", "HTML", "CSS", "Open weather api"],
+    category: "web app",
+    github: "https://github.com/malithJayasinghe2000/Weather-Forecast-web-Application.git",
+    webapp: "",
+  },
   // {
   //   id: 8,
   //   title: "Face Recognition",
